@@ -1,0 +1,9 @@
+# Ignore executable files to avoid unncessary merge conflicts
+
+buildfileindex
+
+filesearchshell
+
+test_suite
+
+hw3fsck/hw3fsck
